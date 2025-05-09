@@ -49,7 +49,7 @@
   </style>
 </head>
 <body>
-  <h1>MLK Staff House Sorting</h1>
+  <h1>Dr. Martin Luther King, Jr. Elementary Staff House Sorting</h1>
   <select id="staff">
     <option value="" disabled selected>Select a staff member</option>
   </select><br>
