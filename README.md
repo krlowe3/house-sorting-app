@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>MLK House Sorting Spinner</title>
+  <title>Dr. Martin Luther King, Jr. Elementary House Sorting Spinner</title>
   <style>
     body {
       text-align: center;
