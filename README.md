@@ -1,6 +1,6 @@
-# Recreate the HTML file from scratch since the session was reset
 
-html_code = """<!DOCTYPE html>
+
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -157,8 +157,4 @@ html_code = """<!DOCTYPE html>
 </html>
 """
 
-html_file_path = "/mnt/data/MLK_House_Sorting_Spinner_Regenerated.html"
-with open(html_file_path, "w") as f:
-    f.write(html_code)
 
-html_file_path
