@@ -88,19 +88,19 @@
     const houseDetails = {
       "Amistad": {
         color: "#e74c3c",
-        crest: "https://via.placeholder.com/300x300?text=Amistad+Crest"
+        crest: "Amistad.png"
       },
       "Isibindi": {
         color: "#27ae60",
-        crest: "https://via.placeholder.com/300x300?text=Isibindi+Crest"
+        crest: "Isibindi.png"
       },
       "Altruismo": {
         color: "#2c3e50",
-        crest: "https://via.placeholder.com/300x300?text=Altruismo+Crest"
+        crest: "Altruismo.png"
       },
       "Reveur": {
         color: "#2980b9",
-        crest: "https://via.placeholder.com/300x300?text=Reveur+Crest"
+        crest: "Reveur.png"
       }
     };
 
