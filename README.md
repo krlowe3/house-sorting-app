@@ -1,10 +1,7 @@
-ur
-
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Dr. Martin Luther King, Jr. Elementary House Sorting Spinner</title>
+  <title>Dr. Martin Luther King, Jr. Elementary King House Sorting Spinner</title>
   <style>
     body {
       text-align: center;
@@ -65,9 +62,9 @@ ur
 
   <script>
     const staffAssignments = {
-      "Hutchings": "Altruismo", "Curry": "Altruismo", "Blake": "Altruismo", "Johnson": "Altruismo", "Mathis": "Amistad",
+      "Hutchings": "Altruismo", "Curry": "Altruismo", "Blake": "Altruismo", "Johnson": "Altruismo", "S. Mathis": "Amistad",
       "Gainey": "Reveur", "Mendoza": "Altruismo", "Nutrition Parks": "Altruismo",
-      "Nutrition 2": "Reveur", "Bentley": "Isibindi", "Walker-Turner": "Altruismo", "Smart": "Isibindi",
+      "Nutrition 2": "Reveur", "Bentley": "Isibindi", "Walker-Turner": "Altruismo", "Smart": "Altruismo",
       "Rogers": "Isibindi", "Dixon": "Isibindi", "S. Williams": "Altruismo", "N. Williams": "Isibindi",
       "Middleton": "Amistad", "Gooden": "Amistad", "Jones": "Amistad", "Brown": "Reveur", "Sapp": "Isibindi",
       "Bradford": "Amistad", "Crossing Guard": "Reveur", "Stewart": "Reveur", "Watson": "Reveur",
@@ -78,11 +75,14 @@ ur
       "Orr": "Altruismo", "Glover": "Amistad", "Ogbuka": "Isibindi", "Cornelius": "Isibindi",
       "Scott": "Reveur", "Harrison": "Reveur", "Fordham": "Amistad", "Davis": "Amistad",
       "A. Bentley": "Amistad", "Booker": "Isibindi", "Thompson": "Reveur", "S. Sherman": "Reveur",
-      "Gomes": "Reveur", "Odom": "Reveur", "Crowell": "Amistad", "Mathis Cust": "Amistad",
+      "Gomes": "Reveur", "Odom": "Reveur", "Crowell": "Amistad", "Mathis": "Amistad",
       "Pryor": "Amistad", "Nurse Carswell": "Altruismo", "Banks": "Altruismo", "Milton": "Reveur",
       "Bell": "Isibindi", "Anderson": "Isibindi", "Martin": "Amistad", "PEC co-teach": "Isibindi", "Pre-K Vacancy": "Isibindi", "PEC Para": "Isibindi",
       "Duncan": "Isibindi", "Hampton": "Reveur", "Basley": "Altruismo", "Almond": "Altruismo"
-      "Canty": "Amistad", "Conaway": "Isibindi", "J. Sherman": "Amistad"
+      "Canty": "Amistad", "Conaway": "Isibindi", "J. Sherman": "Amistad", "Dr. Wilaford": "Altruismo", "Communiy Partner 1": "Altruismo", "Rev. Stanley": "Altruismo", 
+      "Communiy Partner 3": "Altruismo", "Communiy Partner 4": "Altruismo", "New K-Para": "Amistad", "Dionne Daniely": "Amistad","Prussia": "Amistad",
+      "Officer Bill": "Reveur", "P. Williams": "Reveur", "Community Partner 2": "Reveur", "Highland Hills Church": "Reveur", "Nutrition 2": "Reveur",
+      "Brown": "Reveur", "Officer Bill": "Reveur", "Bell": "Isibindi"
     };
 
     const houseDetails = {
