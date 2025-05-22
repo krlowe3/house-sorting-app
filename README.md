@@ -1,4 +1,4 @@
-
+ur
 
 
 <html lang="en">
@@ -65,24 +65,24 @@
 
   <script>
     const staffAssignments = {
-      "Hutchings": "Altruismo", "Curry": "Altruismo", "Blake": "Isibindi", "Mathis": "Isibindi",
-      "Gainey": "Altruismo", "5th Vacancy": "Altruismo", "Nutrition Parks": "Altruismo",
-      "Nutrition 2": "Altruismo", "Bentley": "Altruismo", "Walker-Turner": "Reveur", "Smart": "Isibindi",
-      "Rogers": "Isibindi", "Dixon": "Isibindi", "S. Williams": "Altruismo", "N. Williams": "Altruismo",
-      "Middleton": "Amistad", "Gooden": "Amistad", "Jones": "Amistad", "Brown": "Reveur", "Sapp": "Amistad",
+      "Hutchings": "Altruismo", "Curry": "Altruismo", "Blake": "Altruismo", "Johnson": "Altruismo", "Mathis": "Amistad",
+      "Gainey": "Reveur", "Mendoza": "Altruismo", "Nutrition Parks": "Altruismo",
+      "Nutrition 2": "Reveur", "Bentley": "Isibindi", "Walker-Turner": "Altruismo", "Smart": "Isibindi",
+      "Rogers": "Isibindi", "Dixon": "Isibindi", "S. Williams": "Altruismo", "N. Williams": "Isibindi",
+      "Middleton": "Amistad", "Gooden": "Amistad", "Jones": "Amistad", "Brown": "Reveur", "Sapp": "Isibindi",
       "Bradford": "Amistad", "Crossing Guard": "Reveur", "Stewart": "Reveur", "Watson": "Reveur",
-      "Henriques": "Amistad", "Hooks": "Amistad", "Copeland": "Reveur", "Wooten": "Isibindi",
-      "Nutrtion Stephens": "Isibindi", "Mr. Al": "Isibindi", "Heyser": "Altruismo", "Raines": "Altruismo",
-      "Reese": "Altruismo", "Ashley": "Altruismo", "Nutrition Parker": "Altruismo", "Parker": "Amistad",
+      "Henriques": "Reveur", "Hooks": "Amistad", "Copeland": "Reveur", "Wooten": "Isibindi",
+      "Nutrtion Stephens": "Isibindi", "Mr. Al": "Isibindi", "Heyser": "Amistad", "Raines": "Reveur",
+       "Ashley": "Altruismo", "Nutrition Parker": "Altruismo", "Parker": "Amistad",
       "Parrot": "Isibindi", "Whipple-Wilson": "Isibindi", "Middlebrooks": "Isibindi", "Abad": "Reveur",
       "Orr": "Altruismo", "Glover": "Amistad", "Ogbuka": "Isibindi", "Cornelius": "Isibindi",
       "Scott": "Reveur", "Harrison": "Reveur", "Fordham": "Amistad", "Davis": "Amistad",
-      "Bentley 4th": "Amistad", "Booker": "Amistad", "Thompson": "Reveur", "S. Sherman": "Reveur",
-      "Gomes": "Reveur", "Odom": "Reveur", "2nd Vacancy": "Amistad", "Mathis Cust": "Amistad",
+      "A. Bentley": "Amistad", "Booker": "Isibindi", "Thompson": "Reveur", "S. Sherman": "Reveur",
+      "Gomes": "Reveur", "Odom": "Reveur", "Crowell": "Amistad", "Mathis Cust": "Amistad",
       "Pryor": "Amistad", "Nurse Carswell": "Altruismo", "Banks": "Altruismo", "Milton": "Reveur",
-      "Bell": "Isibindi", "Anderson": "Isibindi", "PEC co-teacher": "Isibindi", "PEC Para": "Isibindi",
-      "Duncan": "Isibindi", "Starks": "Altruismo", "Hampton": "Reveur", "Basley": "Amistad",
-      "Canty": "Amistad", "Conaway": "Amistad", "J. Sherman": "Amistad"
+      "Bell": "Isibindi", "Anderson": "Isibindi", "Martin": "Amistad", "PEC co-teach": "Isibindi", "Pre-K Vacancy": "Isibindi", "PEC Para": "Isibindi",
+      "Duncan": "Isibindi", "Hampton": "Reveur", "Basley": "Altruismo", "Almond": "Altruismo"
+      "Canty": "Amistad", "Conaway": "Isibindi", "J. Sherman": "Amistad"
     };
 
     const houseDetails = {
